@@ -1,0 +1,3 @@
+[submodule "ParamtericAurora"]
+	path = ParamtericAurora
+	url = https://github.com/dgsmith7/ParametricAurora
